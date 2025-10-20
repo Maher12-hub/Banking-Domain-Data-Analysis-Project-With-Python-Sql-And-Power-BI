@@ -67,6 +67,8 @@ The dashboard and analysis focus on the following KPIs:
 - Added interactive filters for region, gender, Joining year and Banking relations.
 
 ---
+## Dashboard Image
+![image alt](https://github.com/Maher12-hub/Banking-Domain-Data-Analysis-Project-With-Python-Sql-And-Power-BI/blob/a1849f40d175e1a1d1e5b724fd337d7f2daaad9a/Banking%20Dashboard%20Screenshots.png)
 
 ##  Key Insights
 - Customers maintaining **multiple account types** show higher loyalty and overall deposit value.  
